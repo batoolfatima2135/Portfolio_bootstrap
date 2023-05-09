@@ -1,0 +1,11 @@
+.header
+{
+    background: url("background-images/Header\ bg@2x.png") 0 0 no-repeat;
+    background-size: cover;
+
+}
+#contact
+{
+    background: url("background-images/contact-form-background-shapes.svg") 0 0 no-repeat;
+    background-size: cover;
+}
